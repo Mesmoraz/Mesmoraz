@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mesmoraz
 - 👀 I'm interested in graphic manipulation, simulation, and back-end development.
-- 🌱 I'm currently learning, Python, 
 - 💞️ Developing learning based projects with high level algorithms, object oriented programming and relational databases.
 - 📫 taylor.philpott@gmail.com / Discord: Mesmoras#0580 
 
